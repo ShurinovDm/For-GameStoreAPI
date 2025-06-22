@@ -1,0 +1,29 @@
+[
+   {
+       "title": "Северная сказка: Демо",
+       "imageURL": "g",
+       "genre": "хоррор, визуальная новелла",
+       "price": "Бесплатно"
+   },
+
+   {
+       "title": "Minecraft",
+       "imageURL": "g",
+       "genre": ", визуальная новелла",
+       "price": "2 699 руб."
+   },
+
+   {
+       "title": "Five Nights at Freddy's",
+       "imageURL": "g",
+       "genre": "хоррор, визуальная новелла",
+       "price": "150 руб."
+   },
+
+   {
+       "title": "Sid Meier's Civilization VI",
+       "imageURL": "g",
+       "genre": "хоррор, визуальная новелла",
+       "price": "2 999 руб."
+   }
+]
