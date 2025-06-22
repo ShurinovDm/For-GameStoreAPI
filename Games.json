@@ -2,28 +2,42 @@
    {
        "title": "Северная сказка: Демо",
        "imageURL": "g",
-       "genre": "хоррор, визуальная новелла",
+       "genre": "Хоррор, визуальная новелла",
        "price": "Бесплатно"
    },
 
    {
        "title": "Minecraft",
        "imageURL": "g",
-       "genre": ", визуальная новелла",
+       "genre": "Песочница, аркады, симуляторы",
        "price": "2 699 руб."
    },
 
    {
        "title": "Five Nights at Freddy's",
        "imageURL": "g",
-       "genre": "хоррор, визуальная новелла",
+       "genre": "Хоррор, экшен",
        "price": "150 руб."
    },
 
    {
-       "title": "Sid Meier's Civilization VI",
+       "title": "World Conqueror IV",
        "imageURL": "g",
-       "genre": "хоррор, визуальная новелла",
-       "price": "2 999 руб."
+       "genre": "Стратегия, военная",
+       "price": "Бесплатно"
+   },
+
+   {
+      "title": "Genshin Impact",
+       "imageURL": "g",
+       "genre": "MMORPG, аниме",
+       "price": "150 руб."
+   },
+
+   {
+      "title": "SimCity BuildIt",
+       "imageURL": "g",
+       "genre": "Симулятор, градостроение",
+       "price": "150 руб."
    }
 ]
