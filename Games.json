@@ -1,43 +1,49 @@
 [
    {
        "title": "Северная сказка: Демо",
-       "imageURL": "g",
+       "imageURL": "https://raw.github.com/ShurinovDm/For-GameStoreAPI/main/North%20Tale%20cover.jpg",
        "genre": "Хоррор, визуальная новелла",
        "price": "Бесплатно"
+       "downloadURL": "https://raw.github.com/ShurinovDm/For-GameStoreAPI/main/North%20Tale.jpg"
    },
 
-   {
+   { 
        "title": "Minecraft",
-       "imageURL": "g",
+       "imageURL": "https://raw.github.com/ShurinovDm/For-GameStoreAPI/main/Minecraft%20cover.jpg",
        "genre": "Песочница, аркады, симуляторы",
        "price": "2 699 руб."
+       "downloadURL": "https://raw.github.com/ShurinovDm/For-GameStoreAPI/main/Minecraft.jpg"
    },
 
    {
        "title": "Five Nights at Freddy's",
-       "imageURL": "g",
+       "imageURL": "https://raw.github.com/ShurinovDm/For-GameStoreAPI/main/Five%20Nights%20at%20Freddy's%20cover.jpg",
        "genre": "Хоррор, экшен",
        "price": "150 руб."
+       "downloadURL": "https://raw.github.com/ShurinovDm/For-GameStoreAPI/main/Five%20Nights%20at%20Freddy's.jpg"
    },
 
    {
        "title": "World Conqueror IV",
-       "imageURL": "g",
+       "imageURL": "https://raw.github.com/ShurinovDm/For-GameStoreAPI/main/World%20Conqueror%204%20cover.jpg",
        "genre": "Стратегия, военная",
        "price": "Бесплатно"
+       "downloadURL": "https://raw.github.com/ShurinovDm/For-GameStoreAPI/main/World%20Conqueror%204.jpg"
    },
 
    {
       "title": "Genshin Impact",
-       "imageURL": "g",
-       "genre": "MMORPG, аниме",
-       "price": "Бесплатно"
+      "imageURL": "https://raw.github.com/ShurinovDm/For-GameStoreAPI/main/Genshin%20Impact%20cover.jpg",
+      "genre": "MMORPG, аниме",
+      "price": "Бесплатно"
+      "downloadURL": "https://raw.github.com/ShurinovDm/For-GameStoreAPI/main/Genshin%20Impact.jpg"
    },
 
    {
       "title": "SimCity BuildIt",
-       "imageURL": "g",
-       "genre": "Симулятор, градостроение",
-       "price": "150 руб."
+      "imageURL": "https://raw.github.com/ShurinovDm/For-GameStoreAPI/main/SimCity%20BuildIt%20cover.jpg",
+      "genre": "Симулятор, градостроение",
+      "price": "150 руб."
+      "downloadURL": "https://raw.github.com/ShurinovDm/For-GameStoreAPI/main/SimCity%20BuildIt.jpg"
    }
 ]
